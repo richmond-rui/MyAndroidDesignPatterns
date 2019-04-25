@@ -1,4 +1,4 @@
-[toc!?direction=lr]
+@[TOC](EventBus1.0 源码解析)
 # 单例模式
 
 ## 懒汉模式
